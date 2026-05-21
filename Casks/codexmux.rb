@@ -1,6 +1,6 @@
 cask "codexmux" do
   version "0.0.0"
-  sha256 "18e85fe372882a3bef6a735f41bcdfffb56b337c843e4ed2c067c302293b905c"
+  sha256 "b94b350a24bafba2e68e5d08b64dda7e0016c7575478fee9e2d99533a7f13b44"
 
   url "https://github.com/Hsiii/CodexMux/releases/download/v0.0.0/CodexMux-0.0.0.zip"
   name "CodexMux"
