@@ -1,6 +1,6 @@
 # homebrew-tap
 
-Homebrew tap for [Comux](https://github.com/Hsiii/CodexMux).
+Homebrew tap for [Comux](https://github.com/Hsiii/Comux).
 
 ## Install
 
@@ -12,7 +12,7 @@ brew install --cask Hsiii/tap/comux
 
 This tap is intended to track GitHub release assets published from:
 
-- Source repo: `Hsiii/CodexMux`
+- Source repo: `Hsiii/Comux`
 - Release archive: `comux-0.0.0.zip`
 
 The cask lives at [Casks/comux.rb](./Casks/comux.rb).
