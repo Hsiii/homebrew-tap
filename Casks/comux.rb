@@ -1,9 +1,9 @@
 cask "comux" do
-  version "0.0.0"
-  sha256 "b94b350a24bafba2e68e5d08b64dda7e0016c7575478fee9e2d99533a7f13b44"
+  version "0.1.0"
+  sha256 "ed2b493bd3d9bf924348f20857beb692f4046c2feb8d31c2febd61387ea3c2cb"
 
-  url "https://github.com/Hsiii/Comux/releases/download/v0.0.0/comux-0.0.0.zip"
-  name "Comux"
+  url "https://github.com/Hsiii/Comux/releases/download/v0.1.0/comux-0.1.0.zip"
+  name "comux"
   desc "macOS menu bar app to track and sort Codex account limits"
   homepage "https://github.com/Hsiii/Comux"
   depends_on macos: ">= :sonoma"
