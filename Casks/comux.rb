@@ -1,6 +1,6 @@
 cask "comux" do
-  version "0.3.0"
-  sha256 "6742d4eb655dc75b82de8658d2613cb0623e2bad13aeec27067a5f1906524315"
+  version "0.4.0"
+  sha256 "cd152760375646dcb683925153aafac0271fee95970deef5995dee187a931d06"
 
   url "https://github.com/Hsiii/Comux/releases/download/v#{version}/comux-#{version}.zip"
   name "comux"
