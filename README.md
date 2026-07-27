@@ -1,18 +1,15 @@
 # homebrew-tap
 
-Homebrew tap for [Comux](https://github.com/Hsiii/Comux).
+Homebrew casks maintained by [Hsiii](https://github.com/Hsiii).
 
 ## Install
 
 ```bash
 brew install --cask Hsiii/tap/comux
+brew install --cask Hsiii/tap/handytab
 ```
 
-## Update
+## Casks
 
-This tap is intended to track GitHub release assets published from:
-
-- Source repo: `Hsiii/Comux`
-- Release archive pattern: `comux-<version>.zip`
-
-The cask lives at [Casks/comux.rb](./Casks/comux.rb).
+- [Comux](https://github.com/Hsiii/Comux) — Codex account limits in the macOS menu bar.
+- [HandyTab](https://github.com/Hsiii/handy-tab) — Open a favorite browser tab with a hand wave or trackpad tap.
