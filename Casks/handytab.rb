@@ -6,6 +6,7 @@ cask "handytab" do
   name "HandyTab"
   desc "Open a favorite browser tab with a hand wave or trackpad tap"
   homepage "https://github.com/Hsiii/handy-tab"
+
   depends_on macos: :sonoma
 
   app "HandyTab.app"
