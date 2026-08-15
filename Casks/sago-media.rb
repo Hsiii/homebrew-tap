@@ -1,6 +1,6 @@
 cask "sago-media" do
-  version "0.5.0"
-  sha256 "2add1fdbd950d09b5fae9311ec439ae4f1a0d27e34765719c7e7fd6b415a529a"
+  version "0.5.1"
+  sha256 "261dcda3042f729bf941071f6f24c070cf28ebdd0cf9a96d20fa7002d2beb67f"
 
   url "https://github.com/Hsiii/sago-media-macos/releases/download/v#{version}/Sago-Media-#{version}.zip"
   name "Sago Media"
