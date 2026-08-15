@@ -7,11 +7,11 @@ Homebrew casks maintained by [Hsiii](https://github.com/Hsiii).
 ```bash
 brew install --cask Hsiii/tap/comux
 brew install --cask Hsiii/tap/handytab
-brew install --cask Hsiii/tap/sago-media
+brew install --cask Hsiii/tap/sago-drop
 ```
 
 ## Casks
 
 - [Comux](https://github.com/Hsiii/Comux) — Codex account limits in the macOS menu bar.
 - [HandyTab](https://github.com/Hsiii/handy-tab) — Open a favorite browser tab with a hand wave or trackpad tap.
-- [Sago Media](https://github.com/Hsiii/sago-media-macos) — Upload files from the macOS menu bar.
+- [Sago Drop](https://github.com/Hsiii/sago-drop) — Upload files from the macOS menu bar.
